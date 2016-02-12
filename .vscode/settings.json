@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "files.exclude": {
+      "elm-stuff": true,
+      "elm.js": true
+    },
+    "search.exclude": {
+      "elm-stuff": true,
+      "elm.js": true
+    },
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.formatOnType": true
+}
